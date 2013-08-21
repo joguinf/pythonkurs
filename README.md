@@ -1,2 +1,2 @@
-pythonkurs
-==========
+Python-Programmierkurs
+======================
