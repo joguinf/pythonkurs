@@ -37,3 +37,4 @@ Tag 2
   - Klassen
   - Methoden
   - Duck-Typing
+- lambda
