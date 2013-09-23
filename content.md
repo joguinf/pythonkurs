@@ -51,7 +51,6 @@ Tag 1
   - Comprehensions: list, set, dict
   - lambda 
   - map, filter, reduce, sum
-  - zip, X, Y = zip(*zip(X, Y))
   - min, max, sort (key=lambda x: -x)
 
   - Task: Finde alle Zahlen in einer Liste, die sich zu 5 aufaddieren. (dict bzw. sort by |key|)
@@ -59,7 +58,7 @@ Tag 1
 
 - Funktionales Programmieren II: Generatoren/Iteratoren
   - generator expressions
-  - enumerate/sorted/reversed
+  - enumerate/sorted/reversed/zip
   - itertools
   - partials with lambda (forget about functool!)
   - yield
