@@ -9,7 +9,7 @@ Tag 1
   - str/unicode
   - triviale "casts"
   - type-Kommando
-  - Triviale Operationen +/-, and, or, bin, hex, ^, | , &, <<
+  - Triviale Operationen +, -, *, **, /, %, in, not, and, or, bin, hex, ^, | , &, <<
   
   - Task: (a**p) % p
   - Task: Fix this code: print 99+" bottles of beer on the wall, "+99+" bottles of beer."
