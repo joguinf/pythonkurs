@@ -16,10 +16,10 @@ Tag 1
   - Task: Fix this code: print 99+" bottles of beer on the wall, "+99+" bottles of beer."
   
 - Datenstrukturen
-  - list  (append, del, [])
+  - list  (append, del, [], extend, +)
   - tuple (immutable!)
   - dict  (key immutable!)
-  - set/frozenset
+  - set/frozenset (&, | , -)
   
   - Task: Tausche zwei Variablen in Python (a, b) = (b, a)
   - Task: List-Slicing \[from:to:stepsize\] (\[::-1\])
@@ -29,7 +29,6 @@ Tag 1
   - if/else
   - for/enumerate
   - while
-  - goto/do-while :D
 
   - Task: Schreibe eine Prefixsumme. (for, enumerate)
   - Task: Zerlege Zahl in die Koeffizientendarstellung zur Basis b (while)
@@ -72,7 +71,6 @@ Tag 1
 - Funktionen
   - *args, **kwargs
   - First-Class-Citizens
-  - Switch-Statement :D
 
 Tag 2
 =====
