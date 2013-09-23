@@ -2,12 +2,16 @@ Tag 1
 =====
 
 - Literale + Kommentare
+  - Kommentare
   - bool
   - int
   - float
   - str/unicode
-  - Kommentare
-  - Task: (a^p) % p
+  - triviale "casts"
+  - type-Kommando
+  - Triviale Operationen +/-, and, or, bin, hex, ^, | , &, <<
+  
+  - Task: (a**p) % p
   - Task: Fix this code: print 99+" bottles of beer on the wall, "+99+" bottles of beer."
   
 - Datenstrukturen
@@ -24,7 +28,7 @@ Tag 1
   - if/else
   - for/enumerate
   - while
-  - goto/do-while :D
+  - goto/do-while -> Dijkstra :D
 
   - Task: Zerlege Zahl in die Koeffizientendarstellung zur Basis b (while)
   - Task: Baue aus Koeffizientendarstellung zur Basis b wieder die Zahl (for, enumerate)
