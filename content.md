@@ -19,7 +19,7 @@ Tag 1
   - list  (append, del, [], extend, +)
   - tuple (immutable!)
   - dict  (key immutable!)
-  - set/frozenset (&, | , -)
+  - set/frozenset (&, | , -, ^)
   
   - Task: Tausche zwei Variablen in Python (a, b) = (b, a)
   - Task: List-Slicing \[from:to:stepsize\] (\[::-1\])
@@ -47,7 +47,6 @@ Tag 1
   - Task: Doubles aus einer Datei einlesen ASCII, ignoriere invalide Zeilen. (with, try)
 
 - Funktionales Programmieren I: Lambda/Comprehensions
-
   - Comprehensions: list, set, dict
   - lambda 
   - map, filter, reduce, sum
@@ -56,7 +55,6 @@ Tag 1
   - Task: Finde alle Zahlen in einer Liste, die sich zu 5 aufaddieren. (map, dict bzw. sort by |key|)
   - Task: print [x for x in range(2,1000) if not [y for y in range(2, int(x**0.5)+1) if x%y == 0]]
   - Task: reduce(lambda x,y: x+y+x*y, primes) http://spikedmath.com/374.html
-
 
 - Funktionales Programmieren II: Generatoren/Iteratoren
   - generator expressions
@@ -69,7 +67,7 @@ Tag 1
   - Task: Rekursiven Generator bauen.
   
 - Funktionen
-  - *args, **kwargs
+  - ``*args``, ``**kwargs``
   - First-Class-Citizens
 
 Tag 2
@@ -79,4 +77,17 @@ Tag 2
   - Klassen
   - Methoden
   - Duck-Typing
+  - Magic methods
+- Dekoratoren
 
+Tag 3
+=====
+
+- Standardbibliothek
+  - random
+  - ``python -m SimpleHTTPServer``
+- Third-Party-Packaging (Distribution vs. PyPI)
+  - virtualenv
+  - easy_install/pip
+  - Packages
+    - requests
