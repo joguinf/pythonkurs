@@ -25,3 +25,15 @@ Tag 1
 - Generatoren/Iteratoren
   - generator expressions
   - itertools
+
+- Funktionen
+  - *args, **kwargs
+  - First-Class-Citizens
+
+Tag 2
+=====
+
+- OOP
+  - Klassen
+  - Methoden
+  - Duck-Typing
