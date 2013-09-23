@@ -54,7 +54,7 @@ Tag 1
   - map, filter, reduce, sum
   - min, max, sort (key=lambda x: -x)
 
-  - Task: Finde alle Zahlen in einer Liste, die sich zu 5 aufaddieren. (dict bzw. sort by |key|)
+  - Task: Finde alle Zahlen in einer Liste, die sich zu 5 aufaddieren. (map, dict bzw. sort by |key|)
   - Task: reduce(lambda x,y: x+y+x*y, primes) http://spikedmath.com/374.html
 
 - Funktionales Programmieren II: Generatoren/Iteratoren
