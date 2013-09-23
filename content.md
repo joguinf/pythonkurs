@@ -11,9 +11,9 @@ Tag 1
   - type-Kommando
   - Triviale Operationen +, -, *, **, /, %, in, not, and, or, bin, hex, ^, | , &, <<
   
-  - Task: "na"*10+" Batman!"
-  - Task: (a**p) % p
-  - Task: Fix this code: print 99+" bottles of beer on the wall, "+99+" bottles of beer."
+  - Task: ``"na"*10+" Batman!"``
+  - Task: ``(a**p) % p``
+  - Task: Fix this code: ``print 99+" bottles of beer on the wall, "+99+" bottles of beer."``
   
 - Datenstrukturen
   - list  (append, del, [], extend, +)
@@ -21,8 +21,8 @@ Tag 1
   - dict  (key immutable!)
   - set/frozenset (&, | , -, ^)
   
-  - Task: Tausche zwei Variablen in Python (a, b) = (b, a)
-  - Task: List-Slicing \[from:to:stepsize\] (\[::-1\])
+  - Task: Tausche zwei Variablen in Python ``(a, b) = (b, a)``
+  - Task: List-Slicing ``[from:to:stepsize]`` (``[::-1\``)
   - Task: Entferne alle Duplikate aus einer Liste.
 
 - Kontrollstrukturen
@@ -50,11 +50,11 @@ Tag 1
   - Comprehensions: list, set, dict
   - lambda 
   - map, filter, reduce, sum
-  - min, max, sort (key=lambda x: -x)
+  - min, max, ``sort(key=lambda x: -x)``
 
   - Task: Finde alle Zahlen in einer Liste, die sich zu 5 aufaddieren. (map, dict bzw. sort by |key|)
-  - Task: print [x for x in range(2,1000) if not [y for y in range(2, int(x**0.5)+1) if x%y == 0]]
-  - Task: reduce(lambda x,y: x+y+x*y, primes) http://spikedmath.com/374.html
+  - Task: ``print [x for x in range(2,1000) if not [y for y in range(2, int(x**0.5)+1) if x%y == 0]]``
+  - Task: ``reduce(lambda x,y: x+y+x*y, primes)`` http://spikedmath.com/374.html
 
 - Funktionales Programmieren II: Generatoren/Iteratoren
   - generator expressions
@@ -90,4 +90,4 @@ Tag 3
   - virtualenv
   - easy_install/pip
   - Packages
-    - requests
+      - requests
