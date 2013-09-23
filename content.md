@@ -55,8 +55,9 @@ Tag 1
   - min, max, sort (key=lambda x: -x)
 
   - Task: Finde alle Zahlen in einer Liste, die sich zu 5 aufaddieren. (map, dict bzw. sort by |key|)
-  - Task: reduce(lambda x,y: x+y+x*y, primes) http://spikedmath.com/374.html
   - Task: print [x for x in range(2,1000) if not [y for y in range(2, int(x**0.5)+1) if x%y == 0]]
+  - Task: reduce(lambda x,y: x+y+x*y, primes) http://spikedmath.com/374.html
+
 
 - Funktionales Programmieren II: Generatoren/Iteratoren
   - generator expressions
