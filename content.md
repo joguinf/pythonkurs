@@ -11,6 +11,7 @@ Tag 1
   - type-Kommando
   - Triviale Operationen +, -, *, **, /, %, in, not, and, or, bin, hex, ^, | , &, <<
   
+  - Task: "na"*10+" Batman!"
   - Task: (a**p) % p
   - Task: Fix this code: print 99+" bottles of beer on the wall, "+99+" bottles of beer."
   
