@@ -73,17 +73,17 @@ Tag 1
   - ``*args``, ``**kwargs``
   - First-Class-Citizens
 
-- Module
-- ``import x``, ``from x import y``, ``import x as y``
-
 Tag 2
 =====
+
+- Module
+- ``import x``, ``from x import y``, ``import x as y``
 
 - OOP
   - Klassen
   - Methoden
   - Duck-Typing
-  - Magic methods
+  - Magic methods (``__call__``)
 - Dekoratoren
 
 Tag 3
