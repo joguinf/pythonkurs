@@ -1,2 +1,3 @@
 - [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 - http://www.pythonapi.com/
+- http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/
