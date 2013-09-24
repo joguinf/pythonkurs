@@ -12,19 +12,20 @@ Tag 1
   - triviale "casts"
   - type-Kommando
   - Triviale Operationen +, -, *, **, /, %, in, not, and, or, bin, hex, ^, | , &, <<
-  
-  - Task: ``"na"*10+" Batman!"``
+  - ``"na"*10+" Batman!"``
+
   - Task: ``(a**p) % p``
-  - Task: Fix this code: ``print 99+" bottles of beer on the wall, "+99+" bottles of beer."``
+  - Task: Fix this code in two different ways: ``print 99 + " bottles of beer on the wall, " + 99 + " bottles of beer."``
   
 - Datenstrukturen
   - list  (append, del, [], extend, +)
   - tuple (immutable!)
   - dict  (key immutable!)
   - set/frozenset (&, | , -, ^)
-  
-  - Task: Tausche zwei Variablen in Python ``(a, b) = (b, a)``
-  - Task: List-Slicing ``[from:to:stepsize]`` (``[::-1\``)
+
+  - List-Slicing ``[from:to:stepsize]`` (``[::-1]``)
+  - Tausche zwei Variablen in Python ``(a, b) = (b, a)``
+
   - Task: Entferne alle Duplikate aus einer Liste.
 
 - Kontrollstrukturen
