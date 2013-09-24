@@ -1,3 +1,5 @@
+http://docs.python.org/2/tutorial/index.html
+
 Tag 1
 =====
 
@@ -69,6 +71,9 @@ Tag 1
 - Funktionen
   - ``*args``, ``**kwargs``
   - First-Class-Citizens
+
+- Module
+- ``import x``, ``from x import y``, ``import x as y``
 
 Tag 2
 =====
