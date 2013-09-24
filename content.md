@@ -1,4 +1,5 @@
-http://docs.python.org/2/tutorial/index.html
+- http://docs.python.org/2/tutorial/index.html
+- http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/
 
 Tag 1
 =====
